@@ -1,16 +1,30 @@
-## Hi there 👋
+### <samp>&gt; Hi there, I'm Ilyasse Aldidi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello..;++;Self-taught+Back-End+Developer,;Computer+Science+Student+at+42+School,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
-<!--
-**ilyassealdidi/ilyassealdidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+    <a href="https://www.linkedin.com/in/ilyassealdidi/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+    <!--<a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>-->
+    <!--<a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>-->
+    <!--<a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>-->
+    <a href="https://t.me/ilyassealdidi"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+</div>
 
-Here are some ideas to get you started:
+<p>
+I’m Ilyasse, a junior Full Stack PHP Developer passionate about web development and modern technologies. Proficient in back-end technologies (PHP, Laravel, MySQL) and front-end development (JavaScript, HTML/CSS, REST APIs).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Comfortable working in agile environments with strong collaboration skills in cross-functional teams, optimizing performance, and delivering robust, scalable, and user-friendly solutions.
+
+Detailed-oriented, responsible, and committed developer, with a get-it-done, on-time, and high-quality product spirit. Self and deep learner, self-motivated, and social. 
+<!--Want to know more about me? Check out my portfolio.-->
+Want to know more about me? [Check out my resume.](https://app.flowcv.com/resume/customization/)
+</p>
+
+### My Tech Stack
+##### Programming Languages
+![Programming Languages](https://skillicons.dev/icons?i=php,html,css,js,c,cpp,cs)
+##### Frameworks & Libraries 
+![Frameworks & Libraries](https://skillicons.dev/icons?i=laravel,bootstrap,vuejs,dotnet)
+##### Tools & Platforms
+![Tools & Platforms](https://skillicons.dev/icons?i=docker,git,github,mysql,linux)
