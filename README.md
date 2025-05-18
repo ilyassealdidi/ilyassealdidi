@@ -1,6 +1,5 @@
-### <samp>&gt; Hi there, I'm Ilyasse Aldidi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello..;++;Self-taught+Back-End+Developer,;Computer+Science+Student+at+42+School,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=white&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Ilyasse+Aldidi;Full+stack+developer,;Computer+Science+Student+at+42+School,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 <div align=center>
@@ -17,8 +16,7 @@ I’m Ilyasse, a junior Full Stack PHP Developer passionate about web developmen
 Comfortable working in agile environments with strong collaboration skills in cross-functional teams, optimizing performance, and delivering robust, scalable, and user-friendly solutions.
 
 Detailed-oriented, responsible, and committed developer, with a get-it-done, on-time, and high-quality product spirit. Self and deep learner, self-motivated, and social. 
-<!--Want to know more about me? Check out my portfolio.-->
-Want to know more about me? [Check out my resume.](https://app.flowcv.com/resume/customization/)
+<!--Want to know more about me? [Check out my resume.](https://app.flowcv.com/resume/customization/)-->
 </p>
 
 ### My Tech Stack
