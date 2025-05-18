@@ -9,15 +9,16 @@
     <!--<a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>-->
     <a href="https://t.me/ilyassealdidi"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
 </div>
+<br>
+<br>
 
-<p>
+### About me
 I’m Ilyasse, a junior Full Stack PHP Developer passionate about web development and modern technologies. Proficient in back-end technologies (PHP, Laravel, MySQL) and front-end development (JavaScript, HTML/CSS, REST APIs).
 
 Comfortable working in agile environments with strong collaboration skills in cross-functional teams, optimizing performance, and delivering robust, scalable, and user-friendly solutions.
 
 Detailed-oriented, responsible, and committed developer, with a get-it-done, on-time, and high-quality product spirit. Self and deep learner, self-motivated, and social. 
 <!--Want to know more about me? [Check out my resume.](https://app.flowcv.com/resume/customization/)-->
-</p>
 
 ### My Tech Stack
 ##### Programming Languages
