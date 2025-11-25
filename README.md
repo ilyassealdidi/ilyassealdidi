@@ -25,7 +25,7 @@ Detailed-oriented, responsible, and committed developer, with a get-it-done, on-
 ##### Programming Languages
 ![Programming Languages](https://skillicons.dev/icons?i=php,html,css,js,c,cpp,cs)
 ##### Database
-![Database](https://skillicons.dev/icons?i=mariadb,sqlite)
+![Database](https://skillicons.dev/icons?i=mysql,sqlite)
 ##### Frameworks & Libraries 
 ![Frameworks & Libraries](https://skillicons.dev/icons?i=laravel,bootstrap,vuejs,dotnet)
 ##### Tools & Platforms
