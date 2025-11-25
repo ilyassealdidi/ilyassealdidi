@@ -23,7 +23,7 @@ Detailed-oriented, responsible, and committed developer, with a get-it-done, on-
 
 ### My Tech Stack
 ##### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=php,html,css,js,c,cpp,cs)
+![Programming Languages](https://skillicons.dev/icons?i=php,html,css,js,ts,c,cpp,cs)
 ##### Database
 ![Database](https://skillicons.dev/icons?i=mysql,sqlite)
 ##### Frameworks & Libraries 
