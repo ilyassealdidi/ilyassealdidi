@@ -40,8 +40,6 @@ I'm a **Junior Full Stack PHP Developer** with 11 months of professional experie
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <details open>
 <summary><b>🎯 Frameworks & Libraries</b></summary>
 <br>
