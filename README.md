@@ -40,6 +40,19 @@ I'm a **Junior Full Stack PHP Developer** with 11 months of professional experie
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>🎯 Frameworks & Libraries</b></summary>
+<br>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+</details>
+
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
 <br>
@@ -51,17 +64,6 @@ I'm a **Junior Full Stack PHP Developer** with 11 months of professional experie
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🎯 Frameworks & Libraries</b></summary>
-<br>
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 </details>
 
@@ -89,15 +91,6 @@ I'm a **Junior Full Stack PHP Developer** with 11 months of professional experie
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </details>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilyassealdidi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyassealdidi&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
 <br>
 
