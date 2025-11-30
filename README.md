@@ -23,10 +23,10 @@ Detailed-oriented, responsible, and committed developer, with a get-it-done, on-
 
 ### My Tech Stack
 ##### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=php,html,css,js,ts,c,cpp,cs)
+![Programming Languages](https://skillicons.dev/icons?i=php,html,css,js,ts,c,cpp)
 ##### Database
 ![Database](https://skillicons.dev/icons?i=mysql,sqlite)
 ##### Frameworks & Libraries 
-![Frameworks & Libraries](https://skillicons.dev/icons?i=laravel,bootstrap,vuejs,dotnet)
+![Frameworks & Libraries](https://skillicons.dev/icons?i=laravel,bootstrap,vuejs)
 ##### Tools & Platforms
-![Tools & Platforms](https://skillicons.dev/icons?i=docker,postman,git,github,linux)
+![Tools & Platforms](https://skillicons.dev/icons?i=docker,postman,git,github,ubuntu)
